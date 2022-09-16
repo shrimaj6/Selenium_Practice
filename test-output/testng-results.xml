@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="6" total="7" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-19T13:36:22 IST" name="Default suite" finished-at="2022-07-19T13:36:26 IST" duration-ms="3464">
+    <groups>
+    </groups>
+    <test started-at="2022-07-19T13:36:22 IST" name="Default test" finished-at="2022-07-19T13:36:26 IST" duration-ms="3464">
+      <class name="com.brodgelabz.selectclass.ListBoxExample">
+        <test-method is-config="true" signature="initializeDriver()[pri:0, instance:com.brodgelabz.selectclass.ListBoxExample@619713e5]" started-at="2022-07-19T13:36:22 IST" name="initializeDriver" finished-at="2022-07-19T13:36:25 IST" duration-ms="2888" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeDriver -->
+        <test-method signature="Print_NumberOfOccurranceOfElements_InListBox()[pri:0, instance:com.brodgelabz.selectclass.ListBoxExample@619713e5]" started-at="2022-07-19T13:36:25 IST" name="Print_NumberOfOccurranceOfElements_InListBox" finished-at="2022-07-19T13:36:26 IST" duration-ms="336" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Print_NumberOfOccurranceOfElements_InListBox -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:com.brodgelabz.selectclass.ListBoxExample@619713e5]" started-at="2022-07-19T13:36:26 IST" name="closeDriver" finished-at="2022-07-19T13:36:26 IST" duration-ms="162" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+      </class> <!-- com.brodgelabz.selectclass.ListBoxExample -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
